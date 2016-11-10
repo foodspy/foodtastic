@@ -1,0 +1,21 @@
+#example1 {
+	text-align: center;
+}
+
+p {
+   text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body { 
+      background-image: url("blue_background.jpg");
+      background-image: url("blue_paper.jpg"); 
+      background-color: #e6e6fa
+}
+
+#box {
+      border: 5px solid black;
+}
