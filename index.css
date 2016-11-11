@@ -24,7 +24,7 @@ body {
 	color: grey;
 }
 
-.button a:link {
+a:link {
 	color: black;
 	text-decoration: none;
 }
