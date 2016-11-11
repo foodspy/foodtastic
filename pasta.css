@@ -7,8 +7,9 @@ h1 {
   background-color: darkcyan;
   font-size: 50px;
   padding: 5px;
-  margin-left, margin-right: 3px;
-  color: white
+  margin-left, margin-right: 10px;
+  margin: 2px;
+  color: white;
 }
 
 h3 {
@@ -17,7 +18,7 @@ h3 {
   font-size: 40px;
   padding: 3px;
   margin: 2px;
-  margin-left, margin-right: 3px;
+  margin-left, margin-right: 10px;
   color: white;
 }
 
@@ -26,5 +27,5 @@ h4 {
   font-size: 25;
   padding: 2px;
   margin: 1px;
-  margin-left, margin-right: 3px;
+  margin-left, margin-right: 10px;
 }
