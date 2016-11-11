@@ -4,5 +4,16 @@
 
 h1 {
   text-align: center;
-  background-color: #c8c8c8;
+  background-color: darkcyan;
+  font-size: 50px
+}
+
+h3 {
+  background-color: darkmagenta;
+  font-size: 40px;
+}
+
+h4 {
+  background-color: hsl(0, 100%, 100%, 0.5);
+  font-size: 25;
 }
