@@ -35,6 +35,12 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+.rowHeader {
+    padding: 1.5em 2.5em;
+    border-bottom: 1px solid $grey; 
+    background: url(http://niiiick.com/files/blur-city-1.jpg);
+}
+	    
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 100;
