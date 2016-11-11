@@ -8,6 +8,7 @@ h1 {
   font-size: 50px;
   padding: 5px;
   margin-left, margin-right: 3px;
+  color: white
 }
 
 h3 {
@@ -17,10 +18,11 @@ h3 {
   padding: 3px;
   margin: 2px;
   margin-left, margin-right: 3px;
+  color: white;
 }
 
 h4 {
-  background-color: hsl(0, 100%, 100%, 0.5);
+  background-color: hsl(3, 100%, 100%, 0.5);
   font-size: 25;
   padding: 2px;
   margin: 1px;
