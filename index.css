@@ -1,0 +1,15 @@
+#example1 {
+	text-align: center;
+}
+
+.index {
+	background-image: url("IMG_1484.JPG");
+	background-image: url("nice_background.jpg");
+	background-image: url("blue_paper.jpg"); 
+	background-color: #e6e6fa;
+	text-align: center;
+}
+	
+#box {
+      border: 5px solid black;
+}
