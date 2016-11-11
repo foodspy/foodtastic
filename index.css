@@ -13,3 +13,12 @@ body {
 #box {
       border: 5px solid black;
 }
+
+.button {
+	text-decoration: none;
+	color: black;
+}
+
+.button a:hover {
+	text-decoration: underline;
+	color: #A6B8DB
