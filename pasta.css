@@ -11,7 +11,7 @@ h1 {
   color: white;
 }
 
-h4 {
+h3 {
   background-color: darkmagenta;
   text-align: center;
   font-size: 40px;
@@ -20,7 +20,7 @@ h4 {
   color: white;
 }
 
-h3 {
+h4 {
   background-color: hsl(3, 100%, 100%, 0.5);
   font-size: 25;
   padding: 2px;
